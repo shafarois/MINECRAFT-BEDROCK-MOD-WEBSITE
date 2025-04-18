@@ -21,7 +21,7 @@
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github.com/shafarois)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
 
 ---
 
